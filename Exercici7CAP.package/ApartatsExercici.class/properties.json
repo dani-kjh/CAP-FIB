@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "DanielEscribano 9/26/2021 08:08",
+	"super" : "Object",
+	"category" : "Exercici7CAP",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mitjana"
+	],
+	"name" : "ApartatsExercici",
+	"type" : "normal"
+}
